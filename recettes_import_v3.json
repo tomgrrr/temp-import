@@ -1,0 +1,1196 @@
+[
+  {
+    "nom": "Quiche poireaux",
+    "ingredients": [
+      {
+        "composant_original": "Sauce Quiche",
+        "produit": null,
+        "quantite": 0.18,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Sauce Quiche"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Poireaux",
+    "ingredients": [
+      {
+        "composant_original": "poireaux",
+        "produit": "Poireaux (coupés)",
+        "quantite": 50.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Beurre tracé",
+        "produit": "Beurre tracé",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sucre",
+        "produit": "Sucre semoule",
+        "quantite": 0.6,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Quiche asperge / saumon",
+    "ingredients": [
+      {
+        "composant_original": "Sauce Quiche",
+        "produit": null,
+        "quantite": 0.18,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Sauce Quiche"
+      },
+      {
+        "composant_original": "saumon d'écosse",
+        "produit": "Saumon frais écossais",
+        "quantite": 20.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "asperges",
+        "produit": "Asperges",
+        "quantite": 30.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Légumes",
+    "ingredients": [
+      {
+        "composant_original": "julienne de légumes surgelés",
+        "produit": "Julienne",
+        "quantite": 5.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Gruyère",
+        "produit": "Gruyère",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Quiche au légumes",
+    "ingredients": [
+      {
+        "composant_original": "Sauce Quiche",
+        "produit": null,
+        "quantite": 0.18,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Sauce Quiche"
+      },
+      {
+        "composant_original": "légumes sous recettes",
+        "produit": null,
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Légumes"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Tarte aux myrtilles",
+    "ingredients": [
+      {
+        "composant_original": "pate sucrée sous recette",
+        "produit": null,
+        "quantite": 1.3,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Pâte sucrée"
+      },
+      {
+        "composant_original": "Frangipane sous recette",
+        "produit": null,
+        "quantite": 0.9,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Frangipane"
+      },
+      {
+        "composant_original": "Myrtilles",
+        "produit": "Myrtille",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Nappage",
+        "produit": "Nappage",
+        "quantite": 0.7,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Frangipane",
+    "ingredients": [
+      {
+        "composant_original": "TPT sous recette",
+        "produit": null,
+        "quantite": 4.2,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "TPT"
+      },
+      {
+        "composant_original": "Blanc d'oeuf",
+        "produit": "Blanc Oeufs",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "TPT",
+    "ingredients": [
+      {
+        "composant_original": "Sucre glace",
+        "produit": "Sucre glace",
+        "quantite": 6.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poudre amande",
+        "produit": "Poudre amande blanche",
+        "quantite": 4.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Farine",
+        "produit": "Farine",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Levure",
+        "produit": "Levure",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Parmentier de canard Barquette",
+    "ingredients": [
+      {
+        "composant_original": "purée",
+        "produit": null,
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "purée"
+      },
+      {
+        "composant_original": "canard",
+        "produit": "Effiloché canard confit",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Ris de veau aux morilles louche barquette",
+    "ingredients": [
+      {
+        "composant_original": "sauce ris de veau louche sous recette",
+        "produit": null,
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "sauce ris de veau louche"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Spaghetti bolognaise Barquette",
+    "ingredients": [
+      {
+        "composant_original": "Spaghetti bolognaise sous recette",
+        "produit": null,
+        "quantite": 0.005,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "Spaghetti bolognaise"
+      },
+      {
+        "composant_original": "bolognaise sous recette",
+        "produit": null,
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "bolognaise"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Sauce spaghetti",
+    "ingredients": [
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 0.75,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "povre",
+        "produit": "Poivre",
+        "quantite": 0.005,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "sauce pizza",
+        "produit": null,
+        "quantite": 4.5,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "sauce pizza"
+      },
+      {
+        "composant_original": "Concentré de tomates",
+        "produit": "Tomate pelée concassée",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Bolognaise",
+    "ingredients": [
+      {
+        "composant_original": "Huile olive",
+        "produit": "Huile olive",
+        "quantite": 3.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "oignons rondelles surgelés",
+        "produit": "Oignons émincés",
+        "quantite": 10.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "carotte rapées",
+        "produit": "Carotte (prep.)",
+        "quantite": 8.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "égrainés de bœuf",
+        "produit": "Egrainé boeuf",
+        "quantite": 60.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vin blanc",
+        "produit": "Vin Blanc",
+        "quantite": 3.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Concentré de tomates",
+        "produit": "Tomate pelée concassée",
+        "quantite": 10.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "gustoza",
+        "produit": "Sauce tomate (gustosa)",
+        "quantite": 9.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.8,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "piment",
+        "produit": "Piment",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "chocolat",
+        "produit": "Chocolat",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "persil",
+        "produit": "Persil",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Fromage blanc",
+    "ingredients": [
+      {
+        "composant_original": "fromage blanc",
+        "produit": "From. Blanc",
+        "quantite": 0.18,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "brisure de nougat",
+        "produit": "Brisure nougat",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Salade de fruit",
+    "ingredients": [
+      {
+        "composant_original": "jus de fruit sous recette",
+        "produit": null,
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "jus de fruit"
+      },
+      {
+        "composant_original": "bananne",
+        "produit": "Banane",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "pomme granis",
+        "produit": "Pomme",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "ananas",
+        "produit": "Ananas (morceaux)",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Jus de fruit",
+    "ingredients": [
+      {
+        "composant_original": "coulis de framboise surgelé",
+        "produit": "Coulis framboise",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sucre",
+        "produit": "Sucre semoule",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Carottes rapées",
+    "ingredients": [
+      {
+        "composant_original": "carottes",
+        "produit": "Carotte (entière)",
+        "quantite": 1.3,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigrette carottes rappées sous recette",
+        "produit": null,
+        "quantite": 0.25,
+        "unite": "l",
+        "is_sous_recette": true,
+        "sous_recette_nom": "vinaigrette carottes rappées"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Choux carottes",
+    "ingredients": [
+      {
+        "composant_original": "carottes",
+        "produit": "Carotte (entière)",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnaise sous recette",
+        "produit": null,
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "mayonnaise"
+      },
+      {
+        "composant_original": "choux",
+        "produit": "Chou vert frisé",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "ketchup",
+        "produit": "Ketchup",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.005,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Lentilles",
+    "ingredients": [
+      {
+        "composant_original": "lentilles",
+        "produit": "Lentille en sac",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "tartare de tomates",
+        "produit": "Tartare tomate",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Océance",
+    "ingredients": [
+      {
+        "composant_original": "riz thai",
+        "produit": "Riz",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "poivrons",
+        "produit": "Poivrons lanières",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "crevettes surgelées décortiquées",
+        "produit": "Crev. dec.",
+        "quantite": 0.3,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnaise",
+        "produit": "Mayonnaise",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "ketchup",
+        "produit": "Ketchup",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Vinaigrette carottes rappées",
+    "ingredients": [
+      {
+        "composant_original": "huile",
+        "produit": "Huile tournesol",
+        "quantite": 3.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Huile olive",
+        "produit": "Huile olive",
+        "quantite": 0.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigre de vin",
+        "produit": "Vinaigre vin",
+        "quantite": 2.2,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigre balsamique",
+        "produit": "Vinaigre balsamique",
+        "quantite": 0.6,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "moutarde",
+        "produit": "Moutarde dijon",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnal",
+        "produit": "Mayonnaise",
+        "quantite": 0.3,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Mayonnaise",
+    "ingredients": [
+      {
+        "composant_original": "jaunes d'oeuf",
+        "produit": "Jaune Oeufs",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "moutarde",
+        "produit": "Moutarde dijon",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Huile",
+        "produit": "Huile tournesol",
+        "quantite": 12.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Pommes de terre",
+    "ingredients": [
+      {
+        "composant_original": "pommes de terre",
+        "produit": "Pdt",
+        "quantite": 1.25,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "œufs coquille",
+        "produit": "Oeufs Frais",
+        "quantite": 3.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "tartare de tomates",
+        "produit": "Tartare tomate",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Poulet pâtes",
+    "ingredients": [
+      {
+        "composant_original": "pates trois couleurs",
+        "produit": "Pâtes",
+        "quantite": 1.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Blanc de poulet",
+        "produit": "Poulet",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "tartare de tomates",
+        "produit": "Tartare tomate",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "oignons préfrits",
+        "produit": "Oignons émincés préfrits",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigrette sous recette",
+        "produit": null,
+        "quantite": 0.25,
+        "unite": "l",
+        "is_sous_recette": true,
+        "sous_recette_nom": "vinaigrette"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Vinaigrette",
+    "ingredients": [
+      {
+        "composant_original": "Huile",
+        "produit": "Huile tournesol",
+        "quantite": 3.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Huile olive",
+        "produit": "Huile olive",
+        "quantite": 0.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigre balsamique",
+        "produit": "Vinaigre balsamique",
+        "quantite": 0.4,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "moutarde",
+        "produit": "Moutarde dijon",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnal",
+        "produit": "Mayonnaise",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Riz niçois",
+    "ingredients": [
+      {
+        "composant_original": "riz thai",
+        "produit": "Riz",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "poivrons",
+        "produit": "Poivrons lanières",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "olives",
+        "produit": "Olive",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "thon",
+        "produit": "Thon longe",
+        "quantite": 0.3,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Macédoine",
+    "ingredients": [
+      {
+        "composant_original": "macédoine de légumes",
+        "produit": "Macédoine légumes",
+        "quantite": 1.25,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnaise sous recette",
+        "produit": null,
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "mayonnaise"
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Haricots verts",
+    "ingredients": [
+      {
+        "composant_original": "haricots verts",
+        "produit": "Haricots verts",
+        "quantite": 1.3,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigrette balsamique sous recette",
+        "produit": null,
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "vinaigrette balsamique"
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Vinaigrette balsamique",
+    "ingredients": [
+      {
+        "composant_original": "Huile",
+        "produit": "Huile tournesol",
+        "quantite": 4.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigre balsamique",
+        "produit": "Vinaigre balsamique",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "moutarde",
+        "produit": "Moutarde dijon",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnal",
+        "produit": "Mayonnaise",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.07,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": true
+  },
+  {
+    "nom": "Piemontaise",
+    "ingredients": [
+      {
+        "composant_original": "pomme de terre",
+        "produit": "Pdt",
+        "quantite": 1.25,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "œufs coquille",
+        "produit": "Oeufs Frais",
+        "quantite": 3.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "tartare de tomates",
+        "produit": "Tartare tomate",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mayonnaise sous recette",
+        "produit": null,
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_nom": "mayonnaise"
+      },
+      {
+        "composant_original": "Jambon",
+        "produit": "Jambon par S/ crosse",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  },
+  {
+    "nom": "Melon",
+    "ingredients": [
+      {
+        "composant_original": "melons",
+        "produit": "Melon",
+        "quantite": 3.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "tomates cerises",
+        "produit": "Tomates cerises",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "mozzarella billes",
+        "produit": "Mozza",
+        "quantite": 0.65,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "oignon rouge",
+        "produit": "Oignon rouge",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.006,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.006,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "piment d'espelette",
+        "produit": "Piment",
+        "quantite": 0.002,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "menthe fraiche",
+        "produit": "Menthe",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "Huile olive",
+        "produit": "Huile olive",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      },
+      {
+        "composant_original": "vinaigre balsamique",
+        "produit": "Vinaigre balsamique",
+        "quantite": 0.012,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_nom": null
+      }
+    ],
+    "sellable_as_component": false
+  }
+]
