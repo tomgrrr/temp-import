@@ -1,0 +1,1865 @@
+[
+  {
+    "nom": "Sauce feuilleté bleu",
+    "ingredients": [
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 3.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Crème",
+        "produit": "Crème liq",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Bleu",
+        "produit": "Bleu",
+        "quantite": 3.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Noix",
+        "produit": "Noix",
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Roux",
+        "produit": "Roux",
+        "quantite": 1.7,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Sauce saumon",
+    "ingredients": [
+      {
+        "composant_original": "saumon d'écosse",
+        "produit": "Saumon frais écossais",
+        "quantite": 60.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sac cuisson",
+        "produit": "Sac cuisson",
+        "quantite": 24.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé",
+        "produit": "Fumet poisson",
+        "quantite": 15.4,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "lait",
+        "produit": "Lait",
+        "quantite": 30.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème",
+        "produit": "Crème liq",
+        "quantite": 30.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "vin blanc",
+        "produit": "Vin Blanc",
+        "quantite": 1.2,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "échalottes surgélées",
+        "produit": "Échalote hachée surg",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé d'écrevisse",
+        "produit": "Sauce écrevisses",
+        "quantite": 0.8,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé de homard",
+        "produit": "Fumet homard",
+        "quantite": 0.8,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce tomatina boite",
+        "produit": "Tomatina",
+        "quantite": 2.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Roux",
+        "produit": "Roux",
+        "quantite": 11.0,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.72,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poivre",
+        "produit": "Poivre",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Béchamel feuilleté jambon",
+    "ingredients": [
+      {
+        "composant_original": "lait",
+        "produit": "Lait",
+        "quantite": 12.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème",
+        "produit": "Crème liq",
+        "quantite": 8.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux",
+        "produit": "Roux",
+        "quantite": 4.5,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "picardan",
+        "produit": "Picardan",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sel",
+        "produit": "Sel",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "muscade",
+        "produit": "Muscade",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Feuilleté écrevisse",
+    "ingredients": [
+      {
+        "composant_original": "écrevisses congelées",
+        "produit": "Ecrevisse",
+        "quantite": 8.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "vin blanc",
+        "produit": "Vin Blanc",
+        "quantite": 0.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "creme",
+        "produit": "Crème liq",
+        "quantite": 6.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "lait",
+        "produit": "Lait",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé d'écrevisse",
+        "produit": "Sauce écrevisses",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé de langoustine",
+        "produit": "Jus de langoustine en pâte",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux",
+        "produit": "Roux",
+        "quantite": 2.5,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      }
+    ]
+  },
+  {
+    "nom": "Sauce fruits de mer",
+    "ingredients": [
+      {
+        "composant_original": "Moules surgelées",
+        "produit": "Moule",
+        "quantite": 9.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crevettes surgelées décortiquées",
+        "produit": "Crev. dec.",
+        "quantite": 6.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "écrevisses",
+        "produit": "Ecrevisse",
+        "quantite": 4.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Noix de pétoncle",
+        "produit": "Saint Jacques",
+        "quantite": 3.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Grande boite champignons",
+        "produit": "Champignons",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "vin blanc",
+        "produit": "Vin Blanc",
+        "quantite": 1.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "échalottes",
+        "produit": "Échalottes",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "saumon d'écosse",
+        "produit": "Saumon frais écossais",
+        "quantite": 7.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "merlan",
+        "produit": "Merlan",
+        "quantite": 7.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "quenelles de brochets",
+        "produit": "Quenelle brochet",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "lait",
+        "produit": "Lait",
+        "quantite": 20.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème",
+        "produit": "Crème liq",
+        "quantite": 13.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé",
+        "produit": "Fumet poisson",
+        "quantite": 8.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "fumé de homard",
+        "produit": "Fumet homard",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux",
+        "produit": "Roux",
+        "quantite": 9.0,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "sel",
+        "produit": "Sel",
+        "quantite": 0.33,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poivre",
+        "produit": "Poivre",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Sauce Feuilleté ris de veau",
+    "ingredients": [
+      {
+        "composant_original": "riz de veau CUIT",
+        "produit": "Ris de veau",
+        "quantite": 60.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Morilles déshydratées",
+        "produit": "Morilles",
+        "quantite": 5.75,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 1.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "échalottes surgelées",
+        "produit": "Échalote hachée surg",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Porto",
+        "produit": "Porto",
+        "quantite": 3.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce morilles",
+        "produit": "Sauce aux morilles",
+        "quantite": 0.6,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 40.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Crème 30%",
+        "produit": "Crème liq",
+        "quantite": 36.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux SOUS RECETTE",
+        "produit": "Roux",
+        "quantite": 22.0,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sac cuisson",
+        "produit": "Sac cuisson",
+        "quantite": 24.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Sauce Feuilleté poulet",
+    "ingredients": [
+      {
+        "composant_original": "Blanc de poulet",
+        "produit": "Poulet",
+        "quantite": 62.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sac cuissons",
+        "produit": "Sac cuisson",
+        "quantite": 25.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Morilles",
+        "produit": "Morilles",
+        "quantite": 11.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre Kg",
+        "produit": "Beurre doux",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Echalottes surgelées",
+        "produit": "Échalote hachée surg",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Pate d'échalottes",
+        "produit": "Pulpe échalote",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 1.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 48.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème",
+        "produit": "Crème liq",
+        "quantite": 36.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce girolles en pot",
+        "produit": "Sauce aux girolles",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce champignon en pot",
+        "produit": "Sauce aux champignons",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "vin blanc",
+        "produit": "Vin Blanc",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce tomatina boite",
+        "produit": "Tomatina",
+        "quantite": 5.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux SOUS RECETTE",
+        "produit": "Roux",
+        "quantite": 24.5,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Sauce pizza",
+    "ingredients": [
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Huile olive",
+        "produit": "Huile olive",
+        "quantite": 0.25,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "oignons préfrits",
+        "produit": "Oignons émincés préfrits",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Tomates pelées concassées en BOITE 5-1",
+        "produit": "Tomate pelée concassée",
+        "quantite": 17.400000000000002,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sucre",
+        "produit": "Sucre semoule",
+        "quantite": 500.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Origan",
+        "produit": "Origan",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Roux",
+        "produit": "Roux",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      }
+    ]
+  },
+  {
+    "nom": "Sauce ris de veau Louche",
+    "ingredients": [
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Echalote",
+        "produit": "Échalote",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Morilles",
+        "produit": "Morilles",
+        "quantite": 4.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sac cuisson",
+        "produit": "Sac cuisson",
+        "quantite": 4.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Ris de veau",
+        "produit": "Ris de veau",
+        "quantite": 40.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Porto",
+        "produit": "Porto",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "creme",
+        "produit": "Crème liq",
+        "quantite": 28.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème épaisse",
+        "produit": "Crème épaisse",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.52,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux SOUS RECETTE",
+        "produit": "Roux",
+        "quantite": 4.0,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      }
+    ]
+  },
+  {
+    "nom": "Sauce Saint Jacques",
+    "ingredients": [
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Echalote",
+        "produit": "Échalote",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "vin blanc",
+        "produit": "Vin Blanc",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "vermouth",
+        "produit": "Vermouth",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "brioche aux grattons",
+    "ingredients": [
+      {
+        "composant_original": "gratons",
+        "produit": "Gratons",
+        "quantite": 5.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "farine",
+        "produit": "Farine",
+        "quantite": 5.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sel",
+        "produit": "Sel",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sucre",
+        "produit": "Sucre semoule",
+        "quantite": 0.25,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "levure",
+        "produit": "Levure",
+        "quantite": 0.7,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "œufs coquille",
+        "produit": "Oeufs Frais",
+        "quantite": 50.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "beurre tracé",
+        "produit": "Beurre tracé",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "beurre fin",
+        "produit": "Beurre doux",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "améliorant",
+        "produit": "Améliorant",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Pate à croissant",
+    "ingredients": [
+      {
+        "composant_original": "Farine de gruau",
+        "produit": "Gruau",
+        "quantite": 50.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Margarine",
+        "produit": "Margarine",
+        "quantite": 6.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre tracé",
+        "produit": "Beurre tracé",
+        "quantite": 6.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sucre",
+        "produit": "Sucre semoule",
+        "quantite": 6.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.95,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "levure de boulanger",
+        "produit": "Levure",
+        "quantite": 3.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Oeufs",
+        "produit": "Oeufs Frais",
+        "quantite": 4.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 9.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Améliorant",
+        "produit": "Améliorant",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre plaque 2 kg",
+        "produit": "Beurre doux",
+        "quantite": 24.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Pate à paté croute **",
+    "ingredients": [
+      {
+        "composant_original": "farine",
+        "produit": "Farine",
+        "quantite": 42.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sel",
+        "produit": "Sel",
+        "quantite": 0.84,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sucre",
+        "produit": "Sucre semoule",
+        "quantite": 0.84,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "beurre",
+        "produit": "Beurre doux",
+        "quantite": 3.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "beurre tracé",
+        "produit": "Beurre tracé",
+        "quantite": 14.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "œuf",
+        "produit": "Oeufs Frais",
+        "quantite": 7.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "cognac",
+        "produit": "Cognac",
+        "quantite": 7.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Quiche Lorraine",
+    "ingredients": [
+      {
+        "composant_original": "Gruyère",
+        "produit": "Gruyère",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Jambon",
+        "produit": "Jambon par S/ crosse",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lardons",
+        "produit": "Lardons",
+        "quantite": 0.015,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Quiche légumes",
+    "ingredients": [
+      {
+        "composant_original": "Mélange légumes",
+        "produit": "Mélange légumes",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Gruyère",
+        "produit": "Gruyère",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Quiche thon tomates",
+    "ingredients": [
+      {
+        "composant_original": "mélange thon",
+        "produit": "Mélange thon",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "thon",
+        "produit": "Thon longe",
+        "quantite": 3.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Gruyère",
+        "produit": "Gruyère",
+        "quantite": 1.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poudre tomate",
+        "produit": "Poudre tomate",
+        "quantite": 0.75,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "mélange tomate",
+        "produit": "Mélange tomate",
+        "quantite": 0.06,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Tomates",
+        "produit": "Tomates",
+        "quantite": 4.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "tartare tomate",
+        "produit": "Tartare tomate",
+        "quantite": 1.6,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Quiche saumon asperges",
+    "ingredients": [
+      {
+        "composant_original": "saumon d'écosse",
+        "produit": "Saumon frais écossais",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "asperges",
+        "produit": "Asperges",
+        "quantite": 0.025,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Quiche chèvre épinard",
+    "ingredients": [
+      {
+        "composant_original": "Epinard",
+        "produit": "Epinard",
+        "quantite": 0.035,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Chèvre",
+        "produit": "Chèvre",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Choux farcis",
+    "ingredients": [
+      {
+        "composant_original": "Huile",
+        "produit": "Huile tournesol",
+        "quantite": 0.5,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "oignons",
+        "produit": "Oignons émincés",
+        "quantite": 1.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "chair saucisse",
+        "produit": "Chair saucisse",
+        "quantite": 3.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "chair tomate",
+        "produit": "Chair tomate",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Tomates",
+        "produit": "Tomates",
+        "quantite": 4.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "ail",
+        "produit": "Ail hachée Surgelé",
+        "quantite": 0.05,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "piment",
+        "produit": "Piment",
+        "quantite": 0.001,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "choux",
+        "produit": "Chou vert frisé",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "viande",
+        "produit": "Viande",
+        "quantite": 0.06,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Fricassé de volaille",
+    "ingredients": [
+      {
+        "composant_original": "creme",
+        "produit": "Crème liq",
+        "quantite": 10.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 4.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Roux",
+        "produit": "Roux",
+        "quantite": 1.8,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "Sauce champignon",
+        "produit": "Sauce aux champignons",
+        "quantite": 5.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce girolles",
+        "produit": "Sauce aux girolles",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "ail",
+        "produit": "Ail hachée Surgelé",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "échalottes",
+        "produit": "Échalottes",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "persil",
+        "produit": "Persil",
+        "quantite": 0.04,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.22,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sac cuissons",
+        "produit": "Sac cuisson",
+        "quantite": 26.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Blanc de poulet",
+        "produit": "Poulet",
+        "quantite": 1.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "champignons",
+        "produit": "Champignons",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Gratin dauphinois",
+    "ingredients": [
+      {
+        "composant_original": "pomme de terre",
+        "produit": "Pdt",
+        "quantite": 44.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Crème",
+        "produit": "Crème liq",
+        "quantite": 12.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Lait",
+        "produit": "Lait",
+        "quantite": 12.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.43,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.03,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "muscade",
+        "produit": "Muscade",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "ail",
+        "produit": "Ail hachée Surgelé",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Paté pomme de terre",
+    "ingredients": [
+      {
+        "composant_original": "ail",
+        "produit": "Ail hachée Surgelé",
+        "quantite": 0.005,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "échalottes",
+        "produit": "Échalottes",
+        "quantite": 0.005,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "persil",
+        "produit": "Persil",
+        "quantite": 0.005,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "creme épaisse",
+        "produit": "Crème épaisse",
+        "quantite": 0.04,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Aligot",
+    "ingredients": [
+      {
+        "composant_original": "Aligot",
+        "produit": "Aligot",
+        "quantite": 2.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Crème",
+        "produit": "Crème liq",
+        "quantite": 0.3,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "ail",
+        "produit": "Ail hachée Surgelé",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poudre purée",
+        "produit": "Poudre purée",
+        "quantite": 0.08,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Purée",
+    "ingredients": [
+      {
+        "composant_original": "Crème",
+        "produit": "Crème liq",
+        "quantite": 0.5,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poudre purée",
+        "produit": "Poudre purée",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Tagliatelle écrevisses",
+    "ingredients": [
+      {
+        "composant_original": "Ecrevisses",
+        "produit": "Ecrevisse",
+        "quantite": 8.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Crème",
+        "produit": "Crème liq",
+        "quantite": 4.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "sauce ecrevisses",
+        "produit": "Sauce écrevisses",
+        "quantite": 0.4,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "piment",
+        "produit": "Piment",
+        "quantite": 0.001,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Roux",
+        "produit": "Roux",
+        "quantite": 0.9,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      }
+    ]
+  },
+  {
+    "nom": "Beurre escargot",
+    "ingredients": [
+      {
+        "composant_original": "persil haché",
+        "produit": "Persil haché surgelé",
+        "quantite": 0.75,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "echalote",
+        "produit": "Échalote",
+        "quantite": 0.12,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "ail",
+        "produit": "Ail hachée Surgelé",
+        "quantite": 0.12,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Sel",
+        "produit": "Sel",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Poivre",
+        "produit": "Poivre",
+        "quantite": 0.01,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "thym",
+        "produit": "Thym",
+        "quantite": 0.006,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "muscade",
+        "produit": "Muscade",
+        "quantite": 0.006,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Noix",
+        "produit": "Noix",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "anchois",
+        "produit": "Anchois",
+        "quantite": 0.15,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "ricard",
+        "produit": "Ricard",
+        "quantite": 0.1,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Beurre",
+        "produit": "Beurre doux",
+        "quantite": 6.0,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  },
+  {
+    "nom": "Sauce quiche",
+    "ingredients": [
+      {
+        "composant_original": "lait",
+        "produit": "Lait",
+        "quantite": 20.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème",
+        "produit": "Crème liq",
+        "quantite": 16.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "crème épaisse",
+        "produit": "Crème épaisse",
+        "quantite": 4.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "roux",
+        "produit": "Roux",
+        "quantite": 2.6,
+        "unite": "kg",
+        "is_sous_recette": true,
+        "sous_recette_id": 5
+      },
+      {
+        "composant_original": "sel",
+        "produit": "Sel",
+        "quantite": 0.2,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "poivre",
+        "produit": "Poivre",
+        "quantite": 0.02,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "muscade",
+        "produit": "Muscade",
+        "quantite": 0.1,
+        "unite": "kg",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "œuf coquilles",
+        "produit": "Oeufs Frais",
+        "quantite": 208.0,
+        "unite": "piece",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      },
+      {
+        "composant_original": "Jaunes d'oeuf",
+        "produit": "Jaune Oeufs",
+        "quantite": 2.0,
+        "unite": "l",
+        "is_sous_recette": false,
+        "sous_recette_id": null
+      }
+    ]
+  }
+]
